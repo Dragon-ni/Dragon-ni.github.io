@@ -4,10 +4,13 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/ts-logo-128.png",
+                    "title": "TypeScript"
                 },
                 {
                     "icon": "images/skills/php.png",
@@ -17,21 +20,30 @@
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
+                
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/sqllogo.png",
+                    "title": "SQL"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/JQuery.png",
+                    "title": "jQuery"
+                },
+                {
+                    "icon": "images/skills/express.png",
+                    "title": "Express"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -40,12 +52,32 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
+                {
+                    "icon": "images/skills/Jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/agile.png",
+                    "title": "Agile"
+                },
+                {
+                    "icon": "images/skills/scrum.png",
+                    "title": "Scrum"
+                },
+                {
+                    "icon": "images/skills/azure.png",
+                    "title": "Azure"
+                },
                 {
                     "icon": "images/skills/android-studio.png",
                     "title": "Android Studio"

@@ -62,6 +62,7 @@
             ]
         },
         {
+            "image" : "images/Landing.png",
             "title": "Secure Chat App",
             "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
             "links": [

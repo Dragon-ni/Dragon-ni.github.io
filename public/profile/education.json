@@ -1,18 +1,18 @@
 {
     "education":[
         {
-            "title": "Jun 2011 - Jun 2015",
+            "title": "Jun 2011 - Nov 2015",
             "cardTitle": "B.S, Computer Science",
-            "cardSubtitle":"University of Victoria, Canada",
+            "cardSubtitle":"DeVry University, Illinois",
             "cardDetailedText": "CGPA - 9.5",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 2011",
+            "title": "Apr 2008 - Mar 2011",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
+            "cardSubtitle":"Newton High School, Newton City",
             "cardDetailedText": "Marks - 95%"
         }
     ]

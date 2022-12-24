@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Full Stack Developer",
+            "subtitle": "Royal-Property (Remote)",
+            "workType": "Contract",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Collaborated with front-end architects and updated 20+ applications to improve performance by 15%",
+                "Worked on . Improved speed by 50%."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06 . 2018  –  03 . 2022"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Front-end Dveloper",
+            "subtitle": "Self-employed",
+            "workType": "Freelancing",
             "workDescription": [
-                "Worked on abc."
+                "Worked on Building Web sites mainly focusing on Frontend.",
+                "Designed the structure and web pages layout",
+                "performed testing on 50+ applications to enhance their stability and scalability",
+                "Deployed 5+ programming languages like HTML, CSS and JavaScript"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03 . 2016  –  11 . 2017"
         }
     ]
 }
